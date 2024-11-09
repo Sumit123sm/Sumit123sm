@@ -55,14 +55,8 @@ I’m a Data Analyst with a strong foundation in data processing, visualization,
 
 ### 📈 **GitHub Stats**
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sumit123sm&theme=github_dark&hide_border=true" />
-</p>
+![Sumit Prasad GitHub Header](https://github.com/yourusername/yourrepository/raw/main/images/your-image.png)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit123sm&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
