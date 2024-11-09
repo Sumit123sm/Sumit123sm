@@ -20,12 +20,12 @@ I’m a Data Analyst with a strong foundation in data processing, visualization,
 ### 📊 **Notable Projects**
 
 1. **Sales Analytics Dashboard**  
-   *Built an interactive Power BI dashboard to track and visualize sales trends.*  
-   ![Sales Dashboard](https://github.com/yourusername/yourrepository/raw/main/images/sales-dashboard.png)
+   *Built an interactive Power BI dashboard to track and visualize sales trends.*
+   <img src="https://github.com/yourusername/yourrepository/raw/main/images/sales-dashboard.png" alt="Sales Dashboard" width="70%"/>
 
 2. **Healthcare Analysis Report**  
-   *Analyzed healthcare trends with a Power BI dashboard.*  
-   ![Healthcare Dashboard](https://github.com/yourusername/yourrepository/raw/main/images/healthcare-dashboard.png)
+   *Analyzed healthcare trends with a Power BI dashboard.*
+   <img src="https://github.com/yourusername/yourrepository/raw/main/images/healthcare-dashboard.png" alt="Healthcare Dashboard" width="70%"/>
 
 ---
 
@@ -48,4 +48,3 @@ I’m open to freelance data analysis and visualization projects. Let’s collab
 
 ---
 
-![Sumit Prasad GitHub Header](https://github.com/yourusername/yourrepository/raw/main/images/header-image.png)
