@@ -55,7 +55,8 @@ I’m a Data Analyst with a strong foundation in data processing, visualization,
 
 ### 📈 **GitHub Stats**
 
-![Sumit Prasad GitHub Header](https://github.com/yourusername/yourrepository/raw/main/images/your-image.png)
+![Sumit Prasad GitHub Header](https://github.com/Sumit123sm/sumitimage/blob/main/DALL%C2%B7E%202024-11-10%2003.43.32%20-%20Design%20an%20interactive%20GitHub%20profile%20header%20image%20for%20a%20Data%20Analyst%20named%20Sumit%20Prasad.%20Include%20data%20analytics-related%20elements%20like%20charts%2C%20SQL%20code.webp)
+
 
 
 ---
