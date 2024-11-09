@@ -1,5 +1,7 @@
 # Hi, I'm Sumit Prasad! 👋
 
+![Sumit Prasad GitHub Header](https://github.com/yourusername/yourrepository/raw/main/images/header-image.png)
+
 ### 🚀 Data Analyst | Aspiring Business Intelligence Analyst | NIT Nagaland
 
 I’m a Data Analyst with a strong foundation in data processing, visualization, and analysis. Currently a third-year Computer Science student at NIT Nagaland, I bring expertise in SQL, Power BI, Python, and Excel to transform raw data into actionable insights. Let’s unlock the power of data together!
@@ -8,10 +10,12 @@ I’m a Data Analyst with a strong foundation in data processing, visualization,
 
 ### 🛠️ **Technical Skills**
 
-- **Programming Languages**: SQL, Python, C++
-- **Data Tools**: Power BI, Excel, Jupyter Notebook, Git, VS Code
-- **Data Analytics**: Data Cleaning, Predictive Modeling, Statistical Analysis, A/B Testing
-- **Visualization**: Data Storytelling, Interactive Dashboards, Matplotlib, Seaborn
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" alt="Excel" height="40"/>
+</p>
 
 ---
 
@@ -19,15 +23,19 @@ I’m a Data Analyst with a strong foundation in data processing, visualization,
 
 1. **[IMDB Movie Success Analysis](https://github.com/Sumit123sm/project-trinity/tree/main/IMB%20MOVIE)**  
    *Analyzed factors influencing movie success using data cleaning and exploratory data analysis techniques.*
+   <img src="https://github.com/yourusername/yourrepository/raw/main/images/imdb-movie-analysis.png" alt="IMDB Movie Success Analysis" width="70%"/>
 
 2. **[Loan Default Risk Analysis](https://github.com/Sumit123sm/project-trinity/tree/main/Loan%20Default%20Risk%20Analysis)**  
    *Conducted EDA on loan applications to identify default risks, helping to guide better risk management decisions.*
+   <img src="https://github.com/yourusername/yourrepository/raw/main/images/loan-default-analysis.png" alt="Loan Default Risk Analysis" width="70%"/>
 
 3. **[Sales Analytics Dashboard](https://github.com/Sumit123sm/Create-a-Sales-Analytics-Dashboard)**  
    *Built an interactive Power BI dashboard to track and visualize sales trends and KPIs.*
+   <img src="https://github.com/yourusername/yourrepository/raw/main/images/sales-dashboard.png" alt="Sales Analytics Dashboard" width="70%"/>
 
 4. **[Healthcare Analysis Report](https://github.com/Sumit123sm/Health_Car_Report)**  
    *Developed a Power BI dashboard analyzing healthcare trends, aiding in data-driven decision-making.*
+   <img src="https://github.com/yourusername/yourrepository/raw/main/images/healthcare-dashboard.png" alt="Healthcare Analysis Report" width="70%"/>
 
 ---
 
@@ -69,6 +77,3 @@ I’m a Data Analyst with a strong foundation in data processing, visualization,
 ### 💼 **Get in Touch for Data Projects**
 
 I’m open to freelance data analysis and visualization projects. Let’s collaborate to transform your data into insights!
-
----
-
