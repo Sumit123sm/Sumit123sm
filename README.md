@@ -1,16 +1,13 @@
-# 👋 Hi, I'm Sumit Prasad! 
+# 👋 Hi, I'm Sumit Prasad!  
+### `Data Analyst | NIT Nagaland`
 
-### 🚀 Data Analyst | Aspiring Business Intelligence Analyst | NIT Nagaland
+**Turning data into insights with** `SQL`, `Power BI`, `Python`, and `Excel`.
 
-As a Data Analyst and third-year Computer Science student at NIT Nagaland, I leverage SQL, Power BI, Python, and Excel to transform complex data into actionable insights. My passion lies in uncovering stories within data to drive informed decisions. Let’s unlock the power of data together!
+🌱 *Always learning and exploring data-driven solutions.*
 
 ---
 
-### 🛠️ **Technical Skills**
-
-- **Languages & Tools**: SQL, Python, C++, Power BI, Excel, Jupyter Notebook, Git, VS Code
-- **Analytics Expertise**: Data Cleaning, Predictive Modeling, A/B Testing, Statistical Analysis
-- **Data Visualization**: Storytelling, Interactive Dashboards, Matplotlib, Seaborn
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=22&center=true&vCenter=true&lines=Data+Analyst+and+CS+Student;Data+Visualization+Enthusiast;Loves+Turning+Data+into+Stories!)
 
 ---
 
