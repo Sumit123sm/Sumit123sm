@@ -7,7 +7,7 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=22&center=true&vCenter=true&lines=Data+Analyst+and+CS+Student;Data+Visualization+Enthusiast;Loves+Turning+Data+into+Stories!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&size=22&center=true&vCenter=true&lines=Data+Analytics+and+CS+Student;Data+Visualization+Enthusiast;Loves+Turning+Data+into+Stories!)
 
 ---
 
