@@ -20,7 +20,14 @@
 - 🔭 Currently building a **MERN Portfolio Website with Email Verification**
 - 🌱 Learning **React.js** and **System Design**
 - 🏆 2nd Place – *Codefiesta Coding Competition* (MeitY Sponsored)
+- 📻 *Featured on Radio 90 FM* – Shared JEE/MHT-CET strategies and motivation
 - 🧩 Love coding, cooking, and cricket
+
+---
+
+## 🖼️ Web Development Showcase
+
+![Web Dev Banner](https://user-images.githubusercontent.com/74038190/222651238-3f50bcf0-2ecb-4e1f-9e79-3e17b8d0e8f4.png)
 
 ---
 
@@ -86,9 +93,9 @@ Informational school website using HTML, CSS, and JavaScript.
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-prasad-811736264)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white)](https://github.com/Sumit123sm)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sumitprasad102@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-prasad-811736264)  
+[![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white)](https://github.com/Sumit123sm)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sumitprasad102@gmail.com)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/aTjPRmJntF/)
 
 ---
