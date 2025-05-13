@@ -27,7 +27,8 @@
 
 ## 🖼️ Web Development Showcase
 
-![Web Dev Banner](https://user-images.githubusercontent.com/74038190/222651238-3f50bcf0-2ecb-4e1f-9e79-3e17b8d0e8f4.png)
+![Web Dev Banner](https://raw.githubusercontent.com/rajaprerak/rajaprerak/master/images/header.gif)
+
 
 ---
 
