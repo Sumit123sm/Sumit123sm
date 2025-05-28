@@ -54,8 +54,9 @@ Dynamic personal portfolio built with Node.js, EJS, and MySQL.
 ### 🔹 [Job Career Website](https://github.com/Sumit123sm/job-carrer-website)  
 Job portal built using Flask and SQLAlchemy with cloud deployment.
 
-### 🔹 [Online School Management System](https://github.com/Sumit123sm/Online_School_management_system)  
-Informational school website using HTML, CSS, and JavaScript.
+### 🔹 [Online School Management System](https://frontend-umber-seven-73.vercel.app/)  
+Developed a MERN stack School Information System with role-based dashboards (Admin, Teacher, Student) for class scheduling, exams, assignments, and performance tracking.
+Implemented secure JWT authentication, using React (Vite), Express.js, and MongoDB; deployed on Vercel (frontend) and Render (backend).
 
 ---
 
