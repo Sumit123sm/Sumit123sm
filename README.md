@@ -44,7 +44,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Airbnb Clone](https://delta-project-1mr4.onrender.com)  
+### 🔹 [Airbnb-Inspired Property Booking App](https://delta-project-1mr4.onrender.com)  
 Full-stack property booking app with secure authentication and CRUD using MongoDB.  
 [GitHub Repo](https://github.com/Sumit123sm/delta-project)
 
