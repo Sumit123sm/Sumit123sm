@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-🎓 I'm a 3rd-year Computer Science student at NIT Nagaland.  
+🎓 I'm a 4rd-year Computer Science student at NIT Nagaland.  
 💻 I specialize in both data analytics and full-stack development (MERN & Flask).  
 🛠️ Proficient in SQL, Power BI, Python, and C++, along with web development using Node.js, Express.js, and MongoDB.
 
