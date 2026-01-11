@@ -103,10 +103,17 @@ Includes **attendance, exams, results & JWT authentication**
 
 ## 📊 Coding & GitHub Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aTjPRmJntF?theme=dark&font=Fira%20Code&ext=heatmap)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aTjPRmJntF?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit123sm&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit123sm&layout=compact&theme=radical&cache_seconds=86400" />
+</p>
 
 ---
 
