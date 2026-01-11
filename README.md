@@ -56,7 +56,6 @@
 Full-stack AI SaaS with **user authentication, credit system, and Razorpay payments**  
 Users generate images using Clipdrop API and purchase credits in real-time.  
 **Tech:** React, Node.js, MongoDB, Razorpay, JWT  
-🔗 *Live Demo* | *GitHub*
 
 ---
 
@@ -64,7 +63,6 @@ Users generate images using Clipdrop API and purchase credits in real-time.
 Production-ready messaging platform with **online status, image sharing & WebSockets**  
 Built with **JWT authentication & Socket.IO**  
 **Tech:** React, Node.js, MongoDB, Socket.IO  
-🔗 *Live Demo* | *GitHub*
 
 ---
 
@@ -84,10 +82,10 @@ Includes **attendance, exams, results & JWT authentication**
 
 ## 📊 Data Analytics & BI Projects
 
-- 🎬 **IMDB Movie Success Analysis** – What makes movies successful  
-- 🏦 **Loan Default Risk Analysis** – Identifying high-risk borrowers  
-- 📈 **Sales Analytics Dashboard** – KPIs & revenue trends (Power BI)  
-- 🏥 **Healthcare Data Report** – Operational insights using BI  
+- 🎬 **IMDB Movie Success Analysis**  
+- 🏦 **Loan Default Risk Analysis**  
+- 📈 **Sales Analytics Dashboard (Power BI)**  
+- 🏥 **Healthcare Data Report**
 
 ---
 
@@ -105,25 +103,24 @@ Includes **attendance, exams, results & JWT authentication**
 
 <p align="center">
   <img 
-    src="https://leetcard.jacoblin.cool/aTjPRmJntF?theme=dark&font=Fira%20Code&ext=heatmap" 
+    src="https://leetcard.jacoblin.cool/aTjPRmJntF?theme=dark&font=Fira%20Code&ext=heatmap"
     alt="LeetCode Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical&cache_seconds=86400&v=1"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit123sm&layout=compact&theme=radical&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit123sm&layout=compact&theme=radical&cache_seconds=86400&v=1"
     alt="Top Languages"
   />
 </p>
-
 
 ---
 
