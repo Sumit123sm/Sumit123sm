@@ -1,113 +1,120 @@
-# 👋 Hi, I'm Sumit Prasad!
+# 👋 Hi, I'm Sumit Prasad  
 
-### `Data Analyst & Full-Stack Developer | CSE'26 @ NIT Nagaland`
+### 🚀 Software Engineer (Backend + Data) | CSE’26 @ NIT Nagaland  
+**Building scalable systems, real-time apps & data-driven products**
 
-💡 **Turning data into insights with** SQL, Power BI, Python, and building scalable web applications using MERN & Flask.  
-🎯 Passionate about solving real-world problems through data and technology.
+💡 I design and build **production-grade backend systems, SaaS platforms, and data pipelines** that power real-world applications.  
+🎯 Passionate about **distributed systems, payments, analytics, and AI-powered products**.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+MERN+Developer;CSE'+26+NIT+Nagaland;Turning+Data+into+Stories;Building+Scalable+Web+Apps)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Backend+%26+Data;CSE'+26+NIT+Nagaland;Building+Scalable+Systems;Turning+Data+into+Decisions;Real-Time+%7C+Payments+%7C+AI+SaaS)
 
 ---
 
 ## 🧠 About Me
 
-🎓 I'm a 4rd-year Computer Science student at NIT Nagaland.  
-💻 I specialize in both data analytics and full-stack development (MERN & Flask).  
-🛠️ Proficient in SQL, Power BI, Python, and C++, along with web development using Node.js, Express.js, and MongoDB.
+🎓 Final-year Computer Science student at **NIT Nagaland (2026)**  
+💻 Specialize in **Backend Engineering, Full-Stack (MERN), and Data Analytics**  
+📊 I build systems that handle **real-time traffic, payments, authentication, and large datasets**
 
-- 🔭 Currently building a **MERN Portfolio Website with Email Verification**
-- 🌱 Learning **React.js** and **System Design**
-- 🏆 2nd Place – *Codefiesta Coding Competition* (MeitY Sponsored)
-- 📻 *Featured on Radio 90 FM* – Shared JEE/MHT-CET strategies and motivation
-- 🧩 Love coding, cooking, and cricket
+- 🔭 Building **AI SaaS platforms & scalable MERN applications**
+- 🌱 Learning **System Design, Cloud & Distributed Systems**
+- 🏆 **2nd Place – Codefiesta (MeitY Sponsored)**
+- 🏅 **LeetCode Knight (1869 rating)**
+- 📻 Featured on **Radio 90 FM**
+- ⚡ Love building products that users actually use
 
 ---
 
-## 🖼️ Web Development Showcase
+## 🧩 What I’m Great At
 
-![Web Dev Banner](https://raw.githubusercontent.com/rajaprerak/rajaprerak/master/images/header.gif)
-
+✔ Designing secure authentication systems  
+✔ Building real-time apps with WebSockets  
+✔ Payment integrations (Razorpay, credit systems)  
+✔ Large-scale data analysis & dashboards  
+✔ Writing clean, maintainable backend code  
+✔ Turning vague ideas into real products  
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages:** C++, Python, SQL, JavaScript  
-**Web:** HTML, CSS, Node.js, Express.js, React, Flask  
-**Databases:** MySQL, PostgreSQL, MongoDB  
-**Tools & Platforms:** Git, GitHub, Power BI, VS Code, Jupyter, Render  
-**Other:** REST APIs, EJS, MVC, dotenv
+**Backend:** Node.js, Express.js, Flask, Socket.IO  
+**Frontend:** React, Vite, Tailwind  
+**Databases:** MongoDB, MySQL, PostgreSQL  
+**Cloud & DevOps:** AWS (EC2), Docker, Render, Vercel  
+**Data & BI:** Power BI, Pandas, NumPy, Matplotlib  
+**Other:** REST APIs, JWT, Git, Postman, MVC, System Design  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Engineering Projects
 
-### 🔹 [Airbnb-Inspired Property Booking App](https://delta-project-1mr4.onrender.com)  
-Full-stack property booking app with secure authentication and CRUD using MongoDB.  
-[GitHub Repo](https://github.com/Sumit123sm/delta-project)
-
-### 🔹 [Portfolio Website](https://github.com/Sumit123sm/portfoliosumit)  
-Dynamic personal portfolio built with Node.js, EJS, and MySQL.
-
-### 🔹 [Job Career Website](https://github.com/Sumit123sm/job-carrer-website)  
-Job portal built using Flask and SQLAlchemy with cloud deployment.
-
-### 🔹 [Online School Management System](https://frontend-umber-seven-73.vercel.app/)  
-Developed a MERN stack School Information System with role-based dashboards (Admin, Teacher, Student) for class scheduling, exams, assignments, and performance tracking.
-Implemented secure JWT authentication, using React (Vite), Express.js, and MongoDB; deployed on Vercel (frontend) and Render (backend).
+### 🔹 **AI SaaS – Text to Image Generator**
+Full-stack AI SaaS with **user authentication, credit system, and Razorpay payments**  
+Users generate images using Clipdrop API and purchase credits in real-time.  
+**Tech:** React, Node.js, MongoDB, Razorpay, JWT  
+🔗 *Live Demo* | *GitHub*
 
 ---
 
-## 📊 Data Analytics Projects
-
-1. **[IMDB Movie Success Analysis](https://github.com/Sumit123sm/project-trinity/tree/main/IMB%20MOVIE)**  
-   → Insightful EDA to determine key factors affecting movie ratings.
-
-2. **[Loan Default Risk Analysis](https://github.com/Sumit123sm/project-trinity/tree/main/Loan%20Default%20Risk%20Analysis)**  
-   → Profiling of risky loan applications through exploratory analysis.
-
-3. **[Sales Analytics Dashboard](https://github.com/Sumit123sm/Create-a-Sales-Analytics-Dashboard)**  
-   → Power BI dashboard with trends, KPIs, and monthly comparisons.
-
-4. **[Healthcare Report](https://github.com/Sumit123sm/Health_Car_Report)**  
-   → Data-driven healthcare dashboard built with Power BI.
+### 🔹 **Real-Time Chat Application**
+Production-ready messaging platform with **online status, image sharing & WebSockets**  
+Built with **JWT authentication & Socket.IO**  
+**Tech:** React, Node.js, MongoDB, Socket.IO  
+🔗 *Live Demo* | *GitHub*
 
 ---
 
-## 📜 Certifications
+### 🔹 **UPI Fraud Detection System**
+ML-powered backend that detects **fraudulent transactions & phishing payment links**  
+Trained on **6.3 lakh transactions** with **94% accuracy**  
+**Tech:** Python, Random Forest, NLP, Streamlit  
 
-- 🧠 [Decode DSA with C++ 2.0 (Jul 2024)](https://github.com/Sumit123sm/all-certificate-link/blob/main/f051a0c2-3ada-4287-b26f-7248a4429716.pdf)  
-- 🌐 [MERN Full Stack Development - Delta 6.0 (May 2025)](https://github.com/Sumit123sm/all-certificate-link/blob/main/certificate-delta-60-681c81e906d252012a058bbf.pdf)  
-- 📈 Data Analytics Specialization – 8-week virtual internship (Sep 2024)
+---
+
+### 🔹 **School Management System (MERN)**
+Role-based dashboards for **Admin, Teacher & Students**  
+Includes **attendance, exams, results & JWT authentication**  
+**Tech:** React, Express, MongoDB  
+
+---
+
+## 📊 Data Analytics & BI Projects
+
+- 🎬 **IMDB Movie Success Analysis** – What makes movies successful  
+- 🏦 **Loan Default Risk Analysis** – Identifying high-risk borrowers  
+- 📈 **Sales Analytics Dashboard** – KPIs & revenue trends (Power BI)  
+- 🏥 **Healthcare Data Report** – Operational insights using BI  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **LeetCode Knight – 1869 rating**
+- 🥈 **Codefiesta Runner-Up (MeitY Sponsored)**
+- 🎓 **MERN Full-Stack Developer (Delta 6.0)**
+- 📜 **C++ & Data Structures Certification**
+- 📊 **Data Analytics Internship – Trainity**
 
 ---
 
 ## 📈 GitHub Stats
 
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical)  
+![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit123sm&layout=compact&theme=radical)
-
-![GitHub Header](https://github.com/Sumit123sm/sumitimage/blob/main/DALL%C2%B7E%202024-11-10%2003.43.32%20-%20Design%20an%20interactive%20GitHub%20profile%20header%20image%20for%20a%20Data%20Analyst%20named%20Sumit%20Prasad.%20Include%20data%20analytics-related%20elements%20like%20charts%2C%20SQL%20code.webp)
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-prasad-811736264)  
 [![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white)](https://github.com/Sumit123sm)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sumitprasad102@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/aTjPRmJntF/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/aTjPRmJntF/)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sumitprasad102@gmail.com)
 
 ---
 
-### ⚡ Fun Facts
-
-- 🧑‍🍳 I can debug while making tea ☕  
-- 🧠 I love finding patterns in data  
-- 🏏 Weekend cricketer, weekday coder
-
----
-
-*“Code, Cook, Conquer!”*
+> 💬 *“I don’t just write code — I build systems people depend on.”*
