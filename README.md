@@ -108,20 +108,6 @@ Includes **attendance, exams, results & JWT authentication**
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical&cache_seconds=86400&v=1"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit123sm&layout=compact&theme=radical&cache_seconds=86400&v=1"
-    alt="Top Languages"
-  />
-</p>
-
 ---
 
 ## 🔗 Let’s Connect
