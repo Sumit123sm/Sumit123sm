@@ -101,9 +101,11 @@ Includes **attendance, exams, results & JWT authentication**
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Coding & GitHub Stats
 
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aTjPRmJntF?theme=dark&font=Fira%20Code&ext=heatmap)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumit123sm&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit123sm&layout=compact&theme=radical)
 
 ---
