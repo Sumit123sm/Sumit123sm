@@ -52,6 +52,13 @@
 
 ## 🚀 Featured Engineering Projects
 
+Production-grade AI SaaS that automatically generates product images and short-form video advertisements from text prompts using Google GenAI models, with secure authentication and credit-based billing.
+
+**Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Google GenAI, Cloudinary, Clerk  
+
+**Live Demo:** [View Application](https://ai-ugc-ads-client.vercel.app/)  
+**Source Code:** [GitHub Repository](https://github.com/Sumit123sm/Full-Stack-AI-Short-Video-Ads-Generator)
+
 ### 🔹 **AI SaaS – Text to Image Generator**
 Full-stack AI SaaS with **user authentication, credit system, and Razorpay payments**  
 Users generate images using Clipdrop API and purchase credits in real-time.  
