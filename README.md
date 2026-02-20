@@ -64,12 +64,18 @@ Full-stack AI SaaS with **user authentication, credit system, and Razorpay payme
 Users generate images using Clipdrop API and purchase credits in real-time.  
 **Tech:** React, Node.js, MongoDB, Razorpay, JWT  
 
+**Live Demo:** [View Application](https://image-c2vl.vercel.app/)  
+**Source Code:** [GitHub Repository](https://github.com/Sumit123sm/image)
+
 ---
 
 ### 🔹 **Real-Time Chat Application**
 Production-ready messaging platform with **online status, image sharing & WebSockets**  
 Built with **JWT authentication & Socket.IO**  
 **Tech:** React, Node.js, MongoDB, Socket.IO  
+
+**Live Demo:** [View Application](https://chat-app-seven-khaki-33.vercel.app/)  
+**Source Code:** [GitHub Repository](https://github.com/Sumit123sm/Real-Time-Full-Stack-Chat)
 
 ---
 
