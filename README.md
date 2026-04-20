@@ -1,104 +1,69 @@
 # 👋 Hi, I'm Sumit Prasad  
 
-### 🚀 Software Engineer (Backend + Data) | CSE’26 @ NIT Nagaland  
-**Building scalable systems, real-time apps & data-driven products**
+### 🚀 Backend & Systems Engineer | CSE’26 @ NIT Nagaland  
+**Building scalable systems, real-time applications & AI-powered products**
 
-💡 I design and build **production-grade backend systems, SaaS platforms, and data pipelines** that power real-world applications.  
-🎯 Passionate about **distributed systems, payments, analytics, and AI-powered products**.
+💡 I design and develop **production-grade backend systems, distributed architectures, and AI applications** with a strong focus on performance, scalability, and reliability.  
+🎯 Interested in **system design, real-time systems, and AI-driven backend engineering**.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Backend+%26+Data;CSE'+26+NIT+Nagaland;Building+Scalable+Systems;Turning+Data+into+Decisions;Real-Time+%7C+Payments+%7C+AI+SaaS)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=520&lines=Backend+%26+Systems+Engineer;CSE'+26+NIT+Nagaland;Building+Scalable+Systems;Real-Time+%7C+Distributed+%7C+AI)
 
 ---
 
 ## 🧠 About Me
 
 🎓 Final-year Computer Science student at **NIT Nagaland (2026)**  
-💻 Specialize in **Backend Engineering, Full-Stack (MERN), and Data Analytics**  
-📊 I build systems that handle **real-time traffic, payments, authentication, and large datasets**
+💻 Focused on **Backend Engineering, Distributed Systems, and AI Applications**  
 
-- 🔭 Building **AI SaaS platforms & scalable MERN applications**
-- 🌱 Learning **System Design, Cloud & Distributed Systems**
+- 🔭 Building **AI systems (RAG, multi-agent) & scalable backend platforms**
+- 🌱 Exploring **System Design, Cloud, and Distributed Architectures**
 - 🏆 **2nd Place – Codefiesta (MeitY Sponsored)**
-- 🏅 **LeetCode Knight (1869 rating)**
-- 📻 Featured on **Radio 90 FM**
-- ⚡ Love building products that users actually use
-
----
-
-## 🧩 What I’m Great At
-
-✔ Designing secure authentication systems  
-✔ Building real-time apps with WebSockets  
-✔ Payment integrations (Razorpay, credit systems)  
-✔ Large-scale data analysis & dashboards  
-✔ Writing clean, maintainable backend code  
-✔ Turning vague ideas into real products  
+- 🏅 **LeetCode Knight (Rating: 1869)**
+- ⚡ Strong foundation in **DSA, OS, DBMS, and Computer Networks**
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages:** C++, Python, SQL, JavaScript  
-**Backend:** Node.js, Express.js, Flask, Socket.IO  
+**Backend:** Node.js, Express.js, Flask, REST APIs, Socket.IO  
 **Frontend:** React, Vite, Tailwind  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**Cloud & DevOps:** AWS (EC2), Docker, Render, Vercel  
-**Data & BI:** Power BI, Pandas, NumPy, Matplotlib  
-**Other:** REST APIs, JWT, Git, Postman, MVC, System Design  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Systems & DevOps:** Docker, Linux, AWS (EC2), CI/CD  
+**AI Systems:** LangChain, RAG, Vector Databases, LLM APIs  
+**Other:** JWT Auth, API Design, Git, System Design  
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Featured Projects
 
-Production-grade AI SaaS that automatically generates product images and short-form video advertisements from text prompts using Google GenAI models, with secure authentication and credit-based billing.
-
-**Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Prisma, Google GenAI, Cloudinary, Clerk  
-
-**Live Demo:** [View Application](https://ai-ugc-ads-client.vercel.app/)  
-**Source Code:** [GitHub Repository](https://github.com/Sumit123sm/Full-Stack-AI-Short-Video-Ads-Generator)
-
-### 🔹 **AI SaaS – Text to Image Generator**
-Full-stack AI SaaS with **user authentication, credit system, and Razorpay payments**  
-Users generate images using Clipdrop API and purchase credits in real-time.  
-**Tech:** React, Node.js, MongoDB, Razorpay, JWT  
-
-**Live Demo:** [View Application](https://image-c2vl.vercel.app/)  
-**Source Code:** [GitHub Repository](https://github.com/Sumit123sm/image)
+### 🔹 Multi-Agent AI Research System  
+Designed a modular **multi-agent architecture** (Search → Reader → Writer → Critic) to automate research workflows using real-time web data and LLM reasoning.  
+**Tech:** Python, LangChain, Mistral, Tavily API, Streamlit  
+🔗 [Live Demo](https://build-a-multiagent-ai-research-system.onrender.com/) | [GitHub](https://github.com/Sumit123sm/Build-a-MultiAgent-AI-Research-System-with-LangChain)
 
 ---
 
-### 🔹 **Real-Time Chat Application**
-Production-ready messaging platform with **online status, image sharing & WebSockets**  
-Built with **JWT authentication & Socket.IO**  
-**Tech:** React, Node.js, MongoDB, Socket.IO  
-
-**Live Demo:** [View Application](https://chat-app-seven-khaki-33.vercel.app/)  
-**Source Code:** [GitHub Repository](https://github.com/Sumit123sm/Real-Time-Full-Stack-Chat)
+### 🔹 RAG Document QA System  
+Built an end-to-end **Retrieval-Augmented Generation (RAG)** pipeline with document ingestion, embedding, MMR-based retrieval, and grounded LLM responses.  
+**Tech:** Python, LangChain, ChromaDB, HuggingFace, Streamlit  
+🔗 [GitHub](https://github.com/Sumit123sm/Generative-AI-Part-2-RAG-project)
 
 ---
 
-### 🔹 **UPI Fraud Detection System**
-ML-powered backend that detects **fraudulent transactions & phishing payment links**  
-Trained on **6.3 lakh transactions** with **94% accuracy**  
-**Tech:** Python, Random Forest, NLP, Streamlit  
+### 🔹 AI SaaS Platform (Image & Ads Generation)  
+Developed a scalable AI SaaS platform with **authentication, credit-based billing, and API-driven generation pipeline**.  
+**Tech:** React, TypeScript, Node.js, PostgreSQL, Prisma, Cloudinary  
+🔗 [Live Demo](https://ai-ugc-ads-client.vercel.app/) | [GitHub](https://github.com/Sumit123sm/Full-Stack-AI-Short-Video-Ads-Generator)
 
 ---
 
-### 🔹 **School Management System (MERN)**
-Role-based dashboards for **Admin, Teacher & Students**  
-Includes **attendance, exams, results & JWT authentication**  
-**Tech:** React, Express, MongoDB  
-
----
-
-## 📊 Data Analytics & BI Projects
-
-- 🎬 **IMDB Movie Success Analysis**  
-- 🏦 **Loan Default Risk Analysis**  
-- 📈 **Sales Analytics Dashboard (Power BI)**  
-- 🏥 **Healthcare Data Report**
+### 🔹 Real-Time Chat Application  
+Built a scalable messaging system supporting **500+ concurrent users** using WebSockets and event-driven architecture.  
+**Tech:** React, Node.js, MongoDB, Socket.IO, JWT  
+🔗 [Live Demo](https://chat-app-seven-khaki-33.vercel.app/) | [GitHub](https://github.com/Sumit123sm/Real-Time-Full-Stack-Chat)
 
 ---
 
@@ -106,13 +71,12 @@ Includes **attendance, exams, results & JWT authentication**
 
 - 🥇 **LeetCode Knight – 1869 rating**
 - 🥈 **Codefiesta Runner-Up (MeitY Sponsored)**
-- 🎓 **MERN Full-Stack Developer (Delta 6.0)**
-- 📜 **C++ & Data Structures Certification**
-- 📊 **Data Analytics Internship – Trainity**
+- 📊 Solved **500+ DSA problems** across platforms  
+- 🎓 Certified in **MERN Stack & C++ DSA**
 
 ---
 
-## 📊 Coding & GitHub Stats
+## 📊 Coding Stats
 
 <p align="center">
   <img 
@@ -123,13 +87,13 @@ Includes **attendance, exams, results & JWT authentication**
 
 ---
 
-## 🔗 Let’s Connect
+## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-prasad-811736264)  
-[![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github&logoColor=white)](https://github.com/Sumit123sm)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/aTjPRmJntF/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sumitprasad102@gmail.com)
+[LinkedIn](https://linkedin.com/in/sumit-prasad-811736264)  
+[GitHub](https://github.com/Sumit123sm)  
+[LeetCode](https://leetcode.com/u/aTjPRmJntF/)  
+Email: sumitprasad102@gmail.com  
 
 ---
 
-> 💬 *“I don’t just write code — I build systems people depend on.”*
+> *I focus on building systems that are scalable, reliable, and ready for real-world use.*
